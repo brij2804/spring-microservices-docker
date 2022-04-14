@@ -6,7 +6,20 @@
 
 
 ## Tech Stack V2
-java15, springboot-starter 2.4.4, spring-cloud 2020.0.2,H2 database,spring cloud config server,spring cloud config client, feign client,Eureka Server, Eureka Client,spring cloud load balancer,Spring Cloud API Gateway,Resilience4j circuit breaker, Spring cloud sleuth, Zipkin tracing server.
+- java15,
+- springboot-starter 2.4.4, 
+- spring-cloud 2020.0.2,
+- H2 database,
+- spring cloud config server,
+- spring cloud config client, 
+- feign client,
+- Eureka Server, 
+- Eureka Client,
+- spring cloud load balancer,
+- Spring Cloud API Gateway,
+- Resilience4j circuit breaker, 
+- Spring cloud sleuth, 
+- Zipkin tracing server.
 
 ## Images
 - currency-exchange-service
@@ -14,7 +27,7 @@ java15, springboot-starter 2.4.4, spring-cloud 2020.0.2,H2 database,spring cloud
 - naming-server
   - docker.io/brij2804/microservices2-naming-server:0.0.1-SNAPSHOT
 - currency-conversion-service
-  - docker.io/brij2804/microservices2-currency-conversion-service:0.0
+  - docker.io/brij2804/microservices2-currency-conversion-service:0.0.1-SNAPSHOT
 - api-gateway
   - docker.io/brij2804/microservices2-api-gateway:0.0.1-SNAPSHOT  
 
